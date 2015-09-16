@@ -6,18 +6,21 @@ body {
 	background-color: #222;
 }
 
+.navbar-brand  {
+	position: absolute;
+	width: 100%;
+	text-align: right;
+}
+
+.footline {
+	width: 165%;
+}
+
 .footer {
 	color: #fff;
 	position: absolute;
 	text-align: left;
 	bottom: 5px;
-	left: 20px;
-}
-
-.navbar-brand  {
-	position: absolute;
-	width: 100%;
-	text-align: right;
 }
 
 /*
