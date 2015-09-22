@@ -12,15 +12,16 @@ body {
 	text-align: right;
 }
 
-.footline {
-	width: 165%;
-}
-
 .footer {
 	color: #fff;
 	position: absolute;
-	text-align: left;
+	width: 100%;
 	bottom: 5px;
+}
+
+.footer > hr {
+	position: relative;
+	width: 100%;
 }
 
 /*
